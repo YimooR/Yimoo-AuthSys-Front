@@ -1,7 +1,8 @@
 # 通用权限系统（前端）
 
-![通用权限系统](https://yimoorua-img.oss-cn-chengdu.aliyuncs.com/md-imgs/iShot_2023-04-22_22.47.19.gif)
-
+![image](https://yimoorua-img.oss-cn-chengdu.aliyuncs.com/md-imgs/iShot_2023-04-22_22.56.27.gif)
+[点击看效果](https://yimoorua-img.oss-cn-chengdu.aliyuncs.com/md-imgs/iShot_2023-04-22_22.56.27.gif)
+ 
 ## 使用教程
 
 ```bash
